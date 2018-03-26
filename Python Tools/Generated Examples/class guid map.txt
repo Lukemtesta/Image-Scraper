@@ -1,0 +1,195 @@
+Class GUID
+Flickr 0
+Advocado 1
+aioli 2
+almond 3
+Apple 4
+Aubergine 5
+bacon 6
+Banana 7
+beef 8
+Beetroot 9
+Bell Pepper 10
+black bean 11
+Blackberry 12
+Blackcurrent 13
+Blueberry 14
+brazil nut 15
+bread 16
+bread dough 17
+bream 18
+Brie 19
+Broad Bean 20
+Broccoli 21
+Brussel Sprouts 22
+Butter 23
+Buttermilk 24
+Cabbage 25
+cachew nut 26
+cannelloni 27
+caper 28
+cardamom 29
+Carrot 30
+Cassava 31
+catfisk 32
+catsup 33
+Cauliflower 34
+cayenne 35
+Celery 36
+Celtuce 37
+Chardonnay 38
+cheddar 39
+Cherry 40
+Cherry Tomato 41
+chicken 42
+Chili pepper 43
+chili powder 44
+Chilli 45
+chilli sauce 46
+chip 47
+chocolate 48
+Chorizo 49
+Coconut 50
+coconut milk 51
+cod 52
+colesaw 53
+coriander 54
+cranberry 55
+cranberry sauce 56
+Cream 57
+cream sauce 58
+Cucumber 59
+curd 60
+dill 61
+duck 62
+duck sauce 63
+Edam 64
+egg 65
+Eggplant 66
+falafel 67
+Fig 68
+Flour 69
+French Bean 70
+gammon 71
+Garlic 72
+goat cheese 73
+Grape 74
+Grapefruit 75
+gravy 76
+Green Bean 77
+Guava 78
+ham 79
+horseradish 80
+Kale 81
+kidney bean 82
+Kiwi fruit 83
+Leches 84
+Leek 85
+Lemon 86
+Lettuce 87
+Lime 88
+lobster 89
+Lucuma 90
+Mango 91
+Marrow 92
+mascarpone 93
+Mash Potatoes 94
+mayonnaise 95
+Melon 96
+Milk 97
+mince meat 98
+monkfish 99
+mozzarella 100
+Mushroom 101
+mussel 102
+mustard 103
+Nectarine 104
+octopus 105
+Onion 106
+Orange 107
+Oranges 108
+oyster 109
+paprika 110
+Parmesan 111
+parsley 112
+Parsnip 113
+pasta 114
+pasty 115
+Pea 116
+Peach 117
+peanut butter 118
+pecan 119
+pepper sauce 120
+pesto 121
+pickle 122
+Pineapple 123
+plum tomato 124
+Pomegranate 125
+pork 126
+Potato 127
+Potatoes 128
+prawn 129
+Pumpkin 130
+Radish 131
+Raspberry 132
+red bean 133
+Red Cabbage 134
+Red Onion 135
+red snapper 136
+red wine 137
+Redcurrent 138
+rice 139
+ricotta 140
+rosemary 141
+Runner Bean 142
+saffron 143
+Salad 144
+salmon 145
+salsa sauce 146
+Salt 147
+sardine 148
+sausage 149
+Scotch egg 150
+sea bass 151
+Sea Beet 152
+Shallot 153
+shrimp 154
+smoked salmon 155
+Snap Pea 156
+snapper 157
+Sour Cream 158
+soy sauce 159
+Spinach 160
+Split Pea 161
+Spring Onion 162
+Squash 163
+steak 164
+steak sauce 165
+Stilton 166
+stout 167
+Strawberry 168
+Sugar 169
+Sweet Pepper 170
+Sweet Potato 171
+Swiss Chard 172
+Swiss cheese 173
+Tabasco 174
+taco sauce 175
+Tangerine 176
+tarragon 177
+thyme 178
+Tomato 179
+tomato concentrate 180
+tuna 181
+turkey 182
+turmeric 183
+Turnip 184
+vinegar 185
+walnut 186
+whipping cream 187
+white sauce 188
+white wine 189
+wine vinegar 190
+Worcester sauce 191
+Yam 192
+yogurt 193

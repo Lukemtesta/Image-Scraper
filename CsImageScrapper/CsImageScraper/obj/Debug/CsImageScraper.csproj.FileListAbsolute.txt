@@ -1,0 +1,12 @@
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\CsImageScraper\bin\Debug\CsImageScraper.exe.config
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\CsImageScraper\obj\Debug\CsImageScraper.csprojResolveAssemblyReference.cache
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\bin\Debug\CsImageScraper.exe.config
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\obj\Debug\CsImageScraper.csprojResolveAssemblyReference.cache
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\bin\Debug\CsImageScraper.exe
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\bin\Debug\CsImageScraper.pdb
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\bin\Debug\FlickrNet.dll
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\obj\Debug\CsImageScraper.exe
+C:\Users\thatguylukuss\Documents\temp\CsImageScrapper\CsImageScraper\obj\Debug\CsImageScraper.pdb
+D:\spider_primary_master\primary_master\source\Software\Csharp\Image Scraper\CsImageScrapper\CsImageScraper\bin\Debug\CsImageScraper.exe.config
+D:\spider_primary_master\primary_master\source\Software\Csharp\Image Scraper\CsImageScrapper\CsImageScraper\obj\Debug\CsImageScraper.exe
+D:\spider_primary_master\primary_master\source\Software\Csharp\Image Scraper\CsImageScrapper\CsImageScraper\obj\Debug\CsImageScraper.pdb

@@ -1,0 +1,6 @@
+C:\Users\thatguylukuss\Downloads\database\DatasetCreator\bin\Release\DatasetCreator.exe.config
+C:\Users\thatguylukuss\Downloads\database\DatasetCreator\obj\Release\DatasetCreator.csprojResolveAssemblyReference.cache
+C:\Users\thatguylukuss\Downloads\database\DatasetCreator\bin\Release\DatasetCreator.exe
+C:\Users\thatguylukuss\Downloads\database\DatasetCreator\bin\Release\DatasetCreator.pdb
+C:\Users\thatguylukuss\Downloads\database\DatasetCreator\obj\Release\DatasetCreator.exe
+C:\Users\thatguylukuss\Downloads\database\DatasetCreator\obj\Release\DatasetCreator.pdb

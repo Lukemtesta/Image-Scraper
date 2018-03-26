@@ -1,0 +1,235 @@
+<Food>
+
+	<FoodGroup Name="Fruits" Value="0" >
+		<Item FoodGroup="Fruit" Type="Tomato" Name="Tomato"/>
+		<Item FoodGroup="Fruit" Type="Tomato" Name="Cherry Tomato"/>
+		<Item FoodGroup="Fruit" Type="Apple" Name="Apple"/>
+		<Item FoodGroup="Fruit" Type="Cherry" Name="Cherry"/>
+		<Item FoodGroup="Fruit" Type="Leches" Name="Leches"/>
+		<Item FoodGroup="Fruit" Type="Tomato" Name="tomato concentrate"/>
+		<Item FoodGroup="Fruit" Type="Tomato" Name="plum tomato"/>
+		<Item FoodGroup="Fruit" Type="cranberry" Name="cranberry"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Blackcurrent"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Blueberry"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Chili pepper"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Chilli"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Grape"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Guava"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Kiwi fruit"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Lucuma"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Pomegranate"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Redcurrent"/>
+		<Item FoodGroup="Fruit" Type="Berry" Name="Grape"/>
+		<Item FoodGroup="Fruit" Type="Pepo" Name="Cucumber"/>
+		<Item FoodGroup="Fruit" Type="Pepo" Name="Melon"/>
+		<Item FoodGroup="Fruit" Type="Pepo" Name="Pumpkin"/>
+		<Item FoodGroup="Fruit" Type="Pepo" Name="Grapefruit"/>
+		<Item FoodGroup="Fruit" Type="Pepo" Name="Lemon"/>
+		<Item FoodGroup="Fruit" Type="Pepo" Name="Lime"/>
+		<Item FoodGroup="Fruit" Type="Pepo" Name="Orange"/>
+		<Item FoodGroup="Fruit" Type="Peach" Name="Peach"/>
+		<Item FoodGroup="Fruit" Type="Advocado" Name="Advocado"/>
+		<Item FoodGroup="Fruit" Type="Banana" Name="Banana"/>
+		<Item FoodGroup="Fruit" Type="Coconut" Name="Coconut"/>
+		<Item FoodGroup="Fruit" Type="Mango" Name="Mango"/>
+		<Item FoodGroup="Fruit" Type="Oranges" Name="Oranges"/>
+		<Item FoodGroup="Fruit" Type="Nectarine" Name="Nectarine"/>
+		<Item FoodGroup="Fruit" Type="Tangerine" Name="Tangerine"/>
+		<Item FoodGroup="Fruit" Type="Aggregate" Name="Blackberry"/>
+		<Item FoodGroup="Fruit" Type="Aggregate" Name="Raspberry"/>
+		<Item FoodGroup="Fruit" Type="Fruit" Name="Fig"/>
+		<Item FoodGroup="Fruit" Type="Fruit" Name="Apple"/>
+		<Item FoodGroup="Fruit" Type="Fruit" Name="Pineapple"/>
+		<Item FoodGroup="Fruit" Type="Fruit" Name="Strawberry"/>
+	</FoodGroup>
+	
+	<FoodGroup Name="Diary" Value="1">
+		<Item FoodGroup="Diary" Type="Cheese" Name="Edam"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="goat cheese"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="mozzarella"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="Parmesan"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="ricotta"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="Swiss cheese"/>
+		<Item FoodGroup="Diary" Type="Pasta" Name="pasta"/>
+		<Item FoodGroup="Diary" Type="Pasta" Name="cannelloni"/>
+		<Item FoodGroup="Diary" Type="rice" Name="rice"/>
+		<Item FoodGroup="Diary" Type="Scotch egg" Name="Scotch egg"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="mascarpone"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="Stilton"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="Brie"/>
+		<Item FoodGroup="Diary" Type="Cheese" Name="cheddar"/>
+		<Item FoodGroup="Diary" Type="Milk" Name="Milk"/>
+		<Item FoodGroup="Diary" Type="Butter" Name="Butter"/>
+		<Item FoodGroup="Diary" Type="Flour" Name="Flour"/>
+		<Item FoodGroup="Diary" Type="Sugar" Name="Sugar"/>
+		<Item FoodGroup="Diary" Type="Salt" Name="Salt"/>
+		<Item FoodGroup="Diary" Type="Cream" Name="Cream"/>
+		<Item FoodGroup="Diary" Type="Sour Cream" Name="Sour Cream"/>
+		<Item FoodGroup="Diary" Type="Buttermilk" Name="Buttermilk"/>
+		<Item FoodGroup="Diary" Type="whipping cream" Name="whipping cream"/>
+		<Item FoodGroup="Diary" Type="yogurt" Name="yogurt"/>
+		<Item FoodGroup="Diary" Type="curd" Name="curd"/>
+	</FoodGroup>
+	
+	<FoodGroup Name="Beans" Value="2">
+		<Item FoodGroup="Beans" Type="Nut" Name="almond"/>
+		<Item FoodGroup="Beans" Type="Nut" Name="cachew nut"/>
+		<Item FoodGroup="Beans" Type="Nut" Name="brazil nut"/>
+		<Item FoodGroup="Beans" Type="Nut" Name="walnut"/>
+		<Item FoodGroup="Beans" Type="Nut" Name="pecan"/>
+		<Item FoodGroup="Beans" Type="bean" Name="black bean"/>
+		<Item FoodGroup="Beans" Type="bean" Name="red bean"/>
+		<Item FoodGroup="Beans" Type="bean" Name="kidney bean"/>
+	</FoodGroup>
+	
+	<FoodGroup Name="Meat" Value="3">
+		<Item FoodGroup="Meat" Type="Meat" Name="chicken"/>
+		<Item FoodGroup="Meat" Type="Meat" Name="Chorizo"/>
+		<Item FoodGroup="Meat" Type="Steak" Name="steak"/>
+		<Item FoodGroup="Meat" Type="Pork" Name="pork"/>
+		<Item FoodGroup="Meat" Type="Meat" Name="turkey"/>
+		<Item FoodGroup="Meat" Type="Meat" Name="mince meat"/>
+		<Item FoodGroup="Meat" Type="Pork" Name="sausage"/>
+		<Item FoodGroup="Meat" Type="Pork" Name="ham"/>
+		<Item FoodGroup="Meat" Type="Pork" Name="bacon"/>
+		<Item FoodGroup="Meat" Type="Meat" Name="duck"/>
+		<Item FoodGroup="Meat" Type="Beef" Name="beef"/>
+		<Item FoodGroup="Meat" Type="Meat" Name="gammon"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="shrimp"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="smoked salmon"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="salmon"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="cod"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="sardine"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="bream"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="monkfish"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="catfisk"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="tuna"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="snapper"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="red snapper"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="sea bass"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="lobster"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="stout"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="prawn"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="octopus"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="mussel"/>
+		<Item FoodGroup="Meat" Type="Seafood" Name="oyster"/>
+		<Item FoodGroup="Meat" Type="egg" Name="egg"/>
+	</FoodGroup>
+	
+	<FoodGroup Name="Confection" Value="4">
+		<Item FoodGroup="Confection" Type="Bread" Name="bread dough"/>
+		<Item FoodGroup="Confection" Type="Bread" Name="bread"/>
+		<Item FoodGroup="Confection" Type="peanut butter" Name="peanut butter"/>
+		<Item FoodGroup="Confection" Type="falafel" Name="falafel"/>
+		<Item FoodGroup="Confection" Type="pasty" Name="pasty"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="catsup"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="steak sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="taco sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="salsa sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="cranberry sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="duck sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="horseradish"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="soy sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="Tabasco"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="vinegar"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="wine vinegar"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="pesto"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="mayonnaise"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="aioli"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="chocolate"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="gravy"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="cream sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="white sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="mustard"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="chilli sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="pepper sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="Worcester sauce"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="coconut milk"/>
+		<Item FoodGroup="Confection" Type="sauce" Name="colesaw"/>
+	</FoodGroup>
+	
+	<FoodGroup Name="Vegetable" Value="5">
+		<Item FoodGroup="Vegetable" Type="Potato" Name="Potato"/>
+		<Item FoodGroup="Vegetable" Type="Potato" Name="Potatoes"/>
+		<Item FoodGroup="Vegetable" Type="Potato" Name="Mash Potatoes"/>
+
+		<Item FoodGroup="Vegetable" Type="Celery" Name="Celery"/>
+
+		<Item FoodGroup="Vegetable" Type="Carrot" Name="Carrot"/>
+		<Item FoodGroup="Vegetable" Type="Radish" Name="Radish"/>
+		<Item FoodGroup="Vegetable" Type="Turnip" Name="Turnip"/>
+		<Item FoodGroup="Vegetable" Type="Parsnip" Name="Parsnip"/>
+		<Item FoodGroup="Vegetable" Type="Cucumber" Name="Cucumber"/>
+		<Item FoodGroup="Vegetable" Type="Garlic" Name="Garlic"/>
+		<Item FoodGroup="Vegetable" Type="Mushroom" Name="Mushroom"/>
+
+		<Item FoodGroup="Vegetable" Type="Aubergine" Name="Eggplant"/>
+		<Item FoodGroup="Vegetable" Type="Aubergine" Name="Aubergine"/>
+
+		<Item FoodGroup="Vegetable" Type="Pepper" Name="Bell Pepper"/>
+		<Item FoodGroup="Vegetable" Type="Pepper" Name="Sweet Pepper"/>
+		
+		<Item FoodGroup="Vegetable" Type="Herb" Name="thyme"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="tarragon"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="turmeric"/>
+		<Item FoodGroup="Vegetable" Type="Potato" Name="chip"/>
+		<Item FoodGroup="Vegetable" Type="caper" Name="caper"/>
+		<Item FoodGroup="Vegetable" Type="cardamom" Name="cardamom"/>
+		<Item FoodGroup="Vegetable" Type="cayenne" Name="cayenne"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="chili powder"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="paprika"/>
+		<Item FoodGroup="Vegetable" Type="pickle" Name="pickle"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="rosemary"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="parsley"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="coriander"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="dill"/>
+		<Item FoodGroup="Vegetable" Type="Herb" Name="saffron"/>
+
+		<Item FoodGroup="Vegetable" Type="Cabbage" Name="Cabbage"/>
+		<Item FoodGroup="Vegetable" Type="Cabbage" Name="Red Cabbage"/>
+		<Item FoodGroup="Vegetable" Type="Cabbage" Name="Kale"/>
+		<Item FoodGroup="Vegetable" Type="Cabbage" Name="Broccoli"/>
+		<Item FoodGroup="Vegetable" Type="Cabbage" Name="Cauliflower"/>
+		<Item FoodGroup="Vegetable" Type="Cabbage" Name="Brussel Sprouts"/>
+
+		<Item FoodGroup="Vegetable" Type="Beetroot" Name="Beetroot"/>
+		<Item FoodGroup="Vegetable" Type="Beetroot" Name="Swiss Chard"/>
+		<Item FoodGroup="Vegetable" Type="Beetroot" Name="Sea Beet"/>
+
+		<Item FoodGroup="Vegetable" Type="Lettuce" Name="Lettuce"/>
+		<Item FoodGroup="Vegetable" Type="Lettuce" Name="Celtuce"/>
+
+		<Item FoodGroup="Vegetable" Type="Beans" Name="Green Bean"/>
+		<Item FoodGroup="Vegetable" Type="Beans" Name="French Bean"/>
+		<Item FoodGroup="Vegetable" Type="Beans" Name="Runner Bean"/>
+		<Item FoodGroup="Vegetable" Type="Beans" Name="Broad Bean"/>
+
+		<Item FoodGroup="Vegetable" Type="Peas" Name="Pea"/>
+		<Item FoodGroup="Vegetable" Type="Peas" Name="Split Pea"/>
+		<Item FoodGroup="Vegetable" Type="Peas" Name="Snap Pea"/>
+		
+		<Item FoodGroup="Vegetable" Type="Salad" Name="Salad"/>
+
+		<Item FoodGroup="Vegetable" Type="Pumpkin" Name="Pumpkin"/>
+		<Item FoodGroup="Vegetable" Type="Pumpkin" Name="Marrow"/>
+		<Item FoodGroup="Vegetable" Type="Pumpkin" Name="Squash"/>
+
+		<Item FoodGroup="Vegetable" Type="Onion" Name="Onion"/>
+		<Item FoodGroup="Vegetable" Type="Onion" Name="Red Onion"/>
+		<Item FoodGroup="Vegetable" Type="Onion" Name="Shallot"/>
+		<Item FoodGroup="Vegetable" Type="Onion" Name="Spring Onion"/>
+
+		<Item FoodGroup="Vegetable" Type="Leek" Name="Leek"/>
+		<Item FoodGroup="Vegetable" Type="Spinach" Name="Spinach"/>
+		<Item FoodGroup="Vegetable" Type="Yam" Name="Yam"/>
+		<Item FoodGroup="Vegetable" Type="Sweet Potato" Name="Sweet Potato"/>
+		<Item FoodGroup="Vegetable" Type="Cassava" Name="Cassava"/>
+	</FoodGroup>
+	
+	<FoodGroup Name="Water" Value="6">
+		<Item FoodGroup="Water" Type="Wine" Name="white wine"/>
+		<Item FoodGroup="Water" Type="Wine" Name="Chardonnay"/>
+		<Item FoodGroup="Water" Type="Wine" Name="red wine"/>
+	</FoodGroup>
+	
+</Food>
